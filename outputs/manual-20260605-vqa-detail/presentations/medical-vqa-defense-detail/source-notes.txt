@@ -1,0 +1,15 @@
+Thesis metrics used:
+- train/val/test: 12523 / 2438 / 2342
+- vocab: 4331, answer classes: 2079
+- model: ResNet18 + Embedding + LSTM + feature concatenation + FC classifier + Softmax
+- stage 1 test: Loss 1.8777, Top-1 44.15%, Top-5 81.38%
+- stage 2 test: Loss 1.6937, Top-1 49.87%, Top-5 85.65%
+- average single-sample inference time: 0.007s
+
+Code points verified:
+- model.py: ResNet18 fc replaced with Identity, Embedding 128, LSTM hidden 256, classifier 512 -> num_classes.
+- data_preprocess.py: fixed train/val/test JSON paths, train-only vocab and answer mapping, question length 20.
+- train.py: stage 1 freezes CNN and trains text/classifier branch.
+- train_finetune.py: stage 2 unfreezes ResNet18.layer4 and uses grouped learning rates.
+- evaluate.py: Top-1/Top-5 and avg_time_per_sample calculation.
+- app.py: Gradio UI, top questions, Top1-Top2 margin, Top-5 candidate display.

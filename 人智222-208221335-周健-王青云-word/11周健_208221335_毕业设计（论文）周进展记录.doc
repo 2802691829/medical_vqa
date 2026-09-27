@@ -1,0 +1,424 @@
+
+<!DOCTYPE html>
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+
+    <xml>
+        <w:worddocument>
+            <w:view>Print</w:view></xml>
+    <!--[if gte mso 9]><xml><w:WordDocument><w:View>Print</w:View><w:TrackMoves>false</w:TrackMoves><w:TrackFormatting/><w:ValidateAgainstSchemas/><w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><w:IgnoreMixedContent>false</w:IgnoreMixedContent><w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><w:DoNotPromoteQF/><w:LidThemeOther>EN-US</w:LidThemeOther><w:LidThemeAsian>ZH-CN</w:LidThemeAsian><w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript><w:Compatibility><w:BreakWrappedTables/><w:SnapToGridInCell/><w:WrapTextWithPunct/><w:UseAsianBreakRules/><w:DontGrowAutofit/><w:SplitPgBreakAndParaMark/><w:DontVertAlignCellWithSp/><w:DontBreakConstrainedForcedTables/><w:DontVertAlignInTxbx/><w:Word11KerningPairs/><w:CachedColBalance/><w:UseFELayout/></w:Compatibility><w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><m:mathPr><m:mathFont m:val="Cambria Math"/><m:brkBin m:val="before"/><m:brkBinSub m:val="--"/><m:smallFrac m:val="off"/><m:dispDef/><m:lMargin m:val="0"/> <m:rMargin m:val="0"/><m:defJc m:val="centerGroup"/><m:wrapIndent m:val="1440"/><m:intLim m:val="subSup"/><m:naryLim m:val="undOvr"/></m:mathPr></w:WordDocument></xml><![endif]-->
+
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" /><title>
+	周进展记录导出
+</title><meta name="Generator" content="Microsoft Word 15 (filtered)" />
+    <style>
+        <!--
+        /* Font Definitions */
+        @font-face {
+            font-family: 宋体;
+            panose-1: 2 1 6 0 3 1 1 1 1 1;
+        }
+
+        @font-face {
+            font-family: 黑体;
+            panose-1: 2 1 6 9 6 1 1 1 1 1;
+        }
+
+        @font-face {
+            font-family: "Cambria Math";
+            panose-1: 2 4 5 3 5 4 6 3 2 4;
+        }
+
+        @font-face {
+            font-family: 等线;
+            panose-1: 2 1 6 0 3 1 1 1 1 1;
+        }
+
+        @font-face {
+            font-family: "\@宋体";
+            panose-1: 2 1 6 0 3 1 1 1 1 1;
+        }
+
+        @font-face {
+            font-family: "\@等线";
+            panose-1: 2 1 6 0 3 1 1 1 1 1;
+        }
+
+        @font-face {
+            font-family: "\@黑体";
+            panose-1: 2 1 6 0 3 1 1 1 1 1;
+        }
+
+        @font-face {
+            font-family: ????;
+            panose-1: 0 0 0 0 0 0 0 0 0 0;
+        }
+        /* Style Definitions */
+        p.MsoNormal, li.MsoNormal, div.MsoNormal {
+            margin: 0cm;
+            text-align: justify;
+            text-justify: inter-ideograph;
+            font-size: 10.5pt;
+            font-family: "Times New Roman",serif;
+        }
+
+        .MsoChpDefault {
+            font-family: 等线;
+        }
+        /* Page Definitions */
+        @page WordSection1 {
+            size: 595.3pt 841.9pt;
+            margin: 72.0pt 90.0pt 72.0pt 90.0pt;
+            layout-grid: 15.6pt;
+        }
+
+        div.WordSection1 {
+            page: WordSection1;
+        }
+        -->
+    </style>
+
+</head>
+
+<body lang="ZH-CN" style='word-wrap: break-word; text-justify-trim: punctuation'>
+    <form method="post" action="./WeeklyProgress.aspx?ReportID=0E514C9C5449C8C2&amp;ArchiveYear=" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/bylw_2.0/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZHdHdbnlC4v52a7GcPEpTTLAsdePp_IN071Az83yuSP0UlldUefWlob9lpvmp6BGzQ2&amp;t=637814948020000000" type="text/javascript"></script>
+
+
+        <div class="WordSection1" style='layout-grid: 15.6pt'>
+
+            <p class="MsoNormal" align="center" style='text-align: center'>
+                <span
+                    style='font-size: 15.0pt; font-family: 黑体'>南京工程学院毕业设计（论文）进展情况记录</span>
+            </p>
+
+            <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="605"
+                style='width: 453.65pt; margin-left: -8.8pt; border-collapse: collapse; border: none'>
+                <tr style='height: 1.0cm'>
+                    <td width="113" style='width: 85.1pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-size: 12.0pt; font-family: 宋体'>题目</span>
+                        </p>
+                    </td>
+                    <td width="491" colspan="5" style='width: 13.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-size: 12.0pt; font-family: 宋体'>
+                                <span id="ReportViewName">基于PathVQA数据集的轻量级医疗视觉问答模型设计与实现</span>
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+                <tr style='height: 1.0cm'>
+                    <td width="113" style='width: 85.1pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-size: 12.0pt; font-family: 宋体'>学生姓名</span>
+                        </p>
+                    </td>
+                    <td width="88" style='width: 66.1pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-size: 12.0pt; font-family: 宋体'>
+                                <span id="StudentUserName">周健</span>
+                            </span>
+                        </p>
+                    </td>
+                    <td width="101" style='width: 75.6pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-size: 12.0pt; font-family: 宋体'>班级学号</span>
+                        </p>
+                    </td>
+                    <td width="113" style='width: 85.1pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-size: 12.0pt; font-family: 宋体'>
+                                <span id="ClassName">人工智能222</span>
+                                <br />
+                                <span id="StudentUserId">208221335</span>
+                            </span>
+                        </p>
+                    </td>
+                    <td width="57" style='width: 42.5pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-size: 12.0pt; font-family: 宋体'>专业</span>
+                        </p>
+                    </td>
+                    <td width="132" style='width: 99.25pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-size: 12.0pt; font-family: 宋体'>
+                                <span id="ZhuanYeName">人工智能</span>
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+                <tr style='height: 1.0cm'>
+                    <td width="113" style='width: 85.1pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-size: 12.0pt; font-family: 宋体'>指导教师姓名</span>
+                        </p>
+                    </td>
+                    <td width="189" colspan="2" style='width: 141.7pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-size: 12.0pt; font-family: 宋体'>
+                                <span id="TeacherUserName">王青云;蔡亮亮</span>
+                            </span>
+                        </p>
+                    </td>
+                    <td width="113" style='width: 85.1pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span
+                                style='font-size: 12.0pt; font-family: 宋体'>指导教师职称</span>
+                        </p>
+                    </td>
+                    <td width="189" colspan="2" style='width: 5.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-size: 12.0pt; font-family: 宋体'>
+                                <span id="ProfessionalTitle">教授;高级工程师</span>
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+                <tr style='height: 1.0cm'>
+                    <td width="113" style='width: 85.1pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span
+                                style='font-size: 12.0pt; font-family: 宋体'>日期</span>
+                        </p>
+                    </td>
+                    <td width="491" colspan="5" style='width: 13.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span
+                                style='font-size: 12.0pt; font-family: 宋体'>过</span><span style='font-size: 12.0pt'>
+                                </span><span style='font-size: 12.0pt; font-family: 宋体'>程</span><span
+                                    style='font-size: 12.0pt'> </span><span style='font-size: 12.0pt; font-family: 宋体'>记</span><span style='font-size: 12.0pt'> </span><span style='font-size: 12.0pt; font-family: 宋体'>录</span>
+                        </p>
+                    </td>
+                </tr>
+                
+                <tr style='height: 1.0cm'>
+                    <td width="113" style='width: 85.1pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-size: 12.0pt; font-family: 宋体'>
+                                2026-03-26
+                            </span>
+                        </p>
+                    </td>
+                    <td width="491" colspan="5" style='width: 13.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="left" style='text-align: left'>
+                            <span style='font-size: 12.0pt; font-family: 宋体'>工作完成情况：<p style="margin-left:22.0pt;text-indent:-22.0pt;">	&nbsp;完成<span>PathVQA</span>数据集下载、解压与完整性校验。</p><br />
+                                下阶段工作内容：<p style="margin-left:22.0pt;text-indent:-22.0pt;">	统计数据集核心特征，分析数据分布。</p><br />
+                                指导教师意见:通过
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+                
+                <tr style='height: 1.0cm'>
+                    <td width="113" style='width: 85.1pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-size: 12.0pt; font-family: 宋体'>
+                                2026-04-01
+                            </span>
+                        </p>
+                    </td>
+                    <td width="491" colspan="5" style='width: 13.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="left" style='text-align: left'>
+                            <span style='font-size: 12.0pt; font-family: 宋体'>工作完成情况：<span style="color:#495057;font-family:&quot;font-size:14px;background-color:#FFFFFF;">统计数据集核心特征，分析数据分布。</span><br />
+                                下阶段工作内容：<p style="margin-left:22.0pt;text-indent:-22.0pt;">	研究轻量级神经网络技术。</p><br />
+                                指导教师意见:通过
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+                
+                <tr style='height: 1.0cm'>
+                    <td width="113" style='width: 85.1pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-size: 12.0pt; font-family: 宋体'>
+                                2026-04-01
+                            </span>
+                        </p>
+                    </td>
+                    <td width="491" colspan="5" style='width: 13.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="left" style='text-align: left'>
+                            <span style='font-size: 12.0pt; font-family: 宋体'>工作完成情况：<p style="margin-left:22.0pt;text-indent:-22.0pt;">	研究轻量级神经网络技术。</p><br /><br />
+                                下阶段工作内容：研究跨模态交互技术。<br />
+                                指导教师意见:通过
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+                
+                <tr style='height: 1.0cm'>
+                    <td width="113" style='width: 85.1pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-size: 12.0pt; font-family: 宋体'>
+                                2026-04-21
+                            </span>
+                        </p>
+                    </td>
+                    <td width="491" colspan="5" style='width: 13.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="left" style='text-align: left'>
+                            <span style='font-size: 12.0pt; font-family: 宋体'>工作完成情况：<span style="color:#495057;font-family:&quot;font-size:14px;background-color:#FFFFFF;">研究跨模态交互技术</span><br />
+                                下阶段工作内容：搭建模型基础框架并进行模块功能测试<br />
+                                指导教师意见:通过
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+                
+                <tr style='height: 1.0cm'>
+                    <td width="113" style='width: 85.1pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-size: 12.0pt; font-family: 宋体'>
+                                2026-04-21
+                            </span>
+                        </p>
+                    </td>
+                    <td width="491" colspan="5" style='width: 13.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="left" style='text-align: left'>
+                            <span style='font-size: 12.0pt; font-family: 宋体'>工作完成情况：搭建模型基础框架并进行模块功能测试<br />
+                                下阶段工作内容：完成整个轻量级<span> VQA </span>模型的代码实现<br />
+                                指导教师意见:通过
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+                
+                <tr style='height: 1.0cm'>
+                    <td width="113" style='width: 85.1pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-size: 12.0pt; font-family: 宋体'>
+                                2026-04-21
+                            </span>
+                        </p>
+                    </td>
+                    <td width="491" colspan="5" style='width: 13.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="left" style='text-align: left'>
+                            <span style='font-size: 12.0pt; font-family: 宋体'>工作完成情况：完成整个轻量级<span> VQA </span>模型的代码实现<br />
+                                下阶段工作内容：启动模型训练，调整优化器与学习率策略<br />
+                                指导教师意见:通过
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+                
+                <tr style='height: 1.0cm'>
+                    <td width="113" style='width: 85.1pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-size: 12.0pt; font-family: 宋体'>
+                                2026-04-21
+                            </span>
+                        </p>
+                    </td>
+                    <td width="491" colspan="5" style='width: 13.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="left" style='text-align: left'>
+                            <span style='font-size: 12.0pt; font-family: 宋体'>工作完成情况：启动模型训练，调整优化器与学习率策略<br />
+                                下阶段工作内容：<p>	调试运行，分析实验结果，完成<span>UI</span>界面。<span></span></p><br />
+                                指导教师意见:通过
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+                
+                <tr style='height: 1.0cm'>
+                    <td width="113" style='width: 85.1pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-size: 12.0pt; font-family: 宋体'>
+                                2026-05-27
+                            </span>
+                        </p>
+                    </td>
+                    <td width="491" colspan="5" style='width: 13.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="left" style='text-align: left'>
+                            <span style='font-size: 12.0pt; font-family: 宋体'>工作完成情况：<span style="color:#495057;font-family:&quot;font-size:14px;background-color:#FFFFFF;">调试运行，分析实验结果，完成</span><span style="color:#495057;font-family:&quot;font-size:14px;background-color:#FFFFFF;">UI</span><span style="color:#495057;font-family:&quot;font-size:14px;background-color:#FFFFFF;">界面。</span><br />
+                                下阶段工作内容：撰写毕业设计（论文）。<br />
+                                指导教师意见:通过
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+                
+                <tr style='height: 1.0cm'>
+                    <td width="113" style='width: 85.1pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-size: 12.0pt; font-family: 宋体'>
+                                2026-05-27
+                            </span>
+                        </p>
+                    </td>
+                    <td width="491" colspan="5" style='width: 13.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="left" style='text-align: left'>
+                            <span style='font-size: 12.0pt; font-family: 宋体'>工作完成情况：初稿完成<br />
+                                下阶段工作内容：优化毕业设计（论文）。<br />
+                                指导教师意见:通过
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+                
+                <tr style='height: 1.0cm'>
+                    <td width="113" style='width: 85.1pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-size: 12.0pt; font-family: 宋体'>
+                                2026-05-31
+                            </span>
+                        </p>
+                    </td>
+                    <td width="491" colspan="5" style='width: 13.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="left" style='text-align: left'>
+                            <span style='font-size: 12.0pt; font-family: 宋体'>工作完成情况：完成毕业设计（论文）<br />
+                                下阶段工作内容：<p>	&nbsp;制作论文<span>PPT</span>，准备答辩</p><br />
+                                指导教师意见:通过
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+                
+            </table>
+
+            <p class="MsoNormal"><span lang="EN-US">&nbsp;</span></p>
+
+        </div>
+
+    
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0" />
+	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0" />
+	<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+	<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+
+theForm.oldSubmit = theForm.submit;
+theForm.submit = WebForm_SaveScrollPositionSubmit;
+
+theForm.oldOnSubmit = theForm.onsubmit;
+theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
+//]]>
+</script>
+</form>
+</body>
+</html>

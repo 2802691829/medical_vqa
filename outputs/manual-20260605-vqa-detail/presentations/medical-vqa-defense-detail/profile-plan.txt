@@ -1,0 +1,24 @@
+task mode: create
+primary deck-profile: engineering-platform
+secondary profile gates: undergraduate thesis defense, low-pressure presenter support, appendix for Q&A
+required proof objects:
+- research motivation and scope
+- data processing workflow and fixed split
+- editable architecture map plus module details
+- training strategy and validation/test evidence
+- working Gradio system proof
+- limitations and roadmap
+- appendix with code structure and likely teacher questions
+source/asset requirements:
+- thesis final DOCX: C:\Users\28026\Desktop\毕业设计\周健_208221335_毕业设计论文_定稿.docx
+- source code: C:\Users\28026\Desktop\pathvqa_project
+- figures: C:\Users\28026\Desktop\毕业设计\round10_figures
+brand/authenticity constraints:
+- use institutional marks extracted from the thesis cover only
+- no invented clinical or hospital identity assets
+QA gates:
+- metric values must match thesis tables
+- preserve the distinction between candidate recommendation and clinical diagnosis
+- architecture connectors must be technically correct and legible
+known missing inputs:
+- no official school defense template supplied

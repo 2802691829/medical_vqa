@@ -1,0 +1,1280 @@
+
+<!DOCTYPE html>
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+
+    <xml><w:WordDocument><w:View>Print</w:View></xml>
+    <!--[if gte mso 9]><xml><w:WordDocument><w:View>Print</w:View><w:TrackMoves>false</w:TrackMoves><w:TrackFormatting/><w:ValidateAgainstSchemas/><w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><w:IgnoreMixedContent>false</w:IgnoreMixedContent><w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><w:DoNotPromoteQF/><w:LidThemeOther>EN-US</w:LidThemeOther><w:LidThemeAsian>ZH-CN</w:LidThemeAsian><w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript><w:Compatibility><w:BreakWrappedTables/><w:SnapToGridInCell/><w:WrapTextWithPunct/><w:UseAsianBreakRules/><w:DontGrowAutofit/><w:SplitPgBreakAndParaMark/><w:DontVertAlignCellWithSp/><w:DontBreakConstrainedForcedTables/><w:DontVertAlignInTxbx/><w:Word11KerningPairs/><w:CachedColBalance/><w:UseFELayout/></w:Compatibility><w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><m:mathPr><m:mathFont m:val="Cambria Math"/><m:brkBin m:val="before"/><m:brkBinSub m:val="--"/><m:smallFrac m:val="off"/><m:dispDef/><m:lMargin m:val="0"/> <m:rMargin m:val="0"/><m:defJc m:val="centerGroup"/><m:wrapIndent m:val="1440"/><m:intLim m:val="subSup"/><m:naryLim m:val="undOvr"/></m:mathPr></w:WordDocument></xml><![endif]-->
+
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" /><title>
+	指导日志导出
+</title><meta name="Generator" content="Microsoft Word 15 (filtered)" />
+    <style>
+        <!--
+        /* Font Definitions */
+        @font-face {
+            font-family: 宋体;
+            panose-1: 2 1 6 0 3 1 1 1 1 1;
+        }
+
+        @font-face {
+            font-family: "Cambria Math";
+            panose-1: 2 4 5 3 5 4 6 3 2 4;
+        }
+
+        @font-face {
+            font-family: 等线;
+            panose-1: 2 1 6 0 3 1 1 1 1 1;
+        }
+
+        @font-face {
+            font-family: 仿宋_GB2312;
+        }
+
+        @font-face {
+            font-family: "\@宋体";
+            panose-1: 2 1 6 0 3 1 1 1 1 1;
+        }
+
+        @font-face {
+            font-family: "\@等线";
+            panose-1: 2 1 6 0 3 1 1 1 1 1;
+        }
+
+        @font-face {
+            font-family: "\@仿宋_GB2312";
+        }
+        /* Style Definitions */
+        p.MsoNormal, li.MsoNormal, div.MsoNormal {
+            margin: 0cm;
+            text-align: justify;
+            text-justify: inter-ideograph;
+            font-size: 10.5pt;
+            font-family: "Times New Roman",serif;
+        }
+
+        .MsoChpDefault {
+            font-family: 等线;
+        }
+        /* Page Definitions */
+        @page WordSection1 {
+            size: 595.3pt 841.9pt;
+            margin: 72.0pt 90.0pt 72.0pt 90.0pt;
+            layout-grid: 15.6pt;
+        }
+
+        div.WordSection1 {
+            page: WordSection1;
+        }
+        -->
+    </style>
+</head>
+
+<body lang="ZH-CN" style='word-wrap: break-word; text-justify-trim: punctuation'>
+    <form method="post" action="./GuidanceLog.aspx?ReportID=0E514C9C5449C8C2&amp;ArchiveYear=" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/bylw_2.0/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZHdHdbnlC4v52a7GcPEpTTLAsdePp_IN071Az83yuSP0UlldUefWlob9lpvmp6BGzQ2&amp;t=637814948020000000" type="text/javascript"></script>
+
+        <div class="WordSection1" style='layout-grid: 15.6pt'>
+
+            <p class="MsoNormal" style='margin-top: 7.8pt; margin-right: 0cm; margin-bottom: 15.6pt; margin-left: 0cm; text-indent: 23.6pt'>
+                <b><span style='font-size: 16.0pt; font-family: 仿宋_GB2312'>南京工程学院本科毕业设计（论文）指导工作记录</span></b>
+            </p>
+
+            <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="737"
+                style='width: 552.85pt; margin-left: -58.4pt; border-collapse: collapse; border: solid windowtext 1.0pt;'>
+                <tr style='height: 1.0cm'>
+                    <td width="92" colspan="2" style='width: 69.05pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>学生姓名</span>
+                        </p>
+                    </td>
+                    <td width="92" colspan="2" style='width: 69.1pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                <span id="StudentUserName">周健</span>
+                            </span>
+                        </p>
+                    </td>
+                    <td width="92" colspan="2" style='width: 69.1pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>班级</span>
+                        </p>
+                    </td>
+                    <td width="92" colspan="2" style='width: 69.15pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                <span id="ClassName">人工智能222</span>
+                            </span>
+                        </p>
+                    </td>
+                    <td width="92" style='width: 69.1pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>学号</span>
+                        </p>
+                    </td>
+                    <td width="92" style='width: 69.1pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                <span id="StudentUserId">208221335</span>
+                            </span>
+                        </p>
+                    </td>
+                    <td width="92" style='width: 69.1pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>院系</span>
+                        </p>
+                    </td>
+                    <td width="92" style='width: 69.15pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                <span id="XueYuanName">通信与人工智能学院、集成电路学院</span>
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+                <tr style='height: 1.0cm'>
+                    <td width="92" colspan="2" style='width: 69.05pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>指导教师</span>
+                        </p>
+                    </td>
+                    <td width="276" colspan="6" style='width: 207.35pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                <span id="TeacherUserName">王青云;蔡亮亮</span>
+                            </span>
+                        </p>
+                    </td>
+                    <td width="184" colspan="2" style='width: 138.2pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>指导教师所在单位</span>
+                        </p>
+                    </td>
+                    <td width="184" colspan="2" style='width: 138.25pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                <span id="TeacherXueYuanName">通信与人工智能学院、集成电路学院;通信与人工智能学院、集成电路学院</span>
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+                <tr style='height: 1.0cm'>
+                    <td width="92" colspan="2" style='width: 69.05pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>课题名称</span>
+                        </p>
+                    </td>
+                    <td width="645" colspan="10" style='width: 483.8pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                <span id="ReportViewName">基于PathVQA数据集的轻量级医疗视觉问答模型设计与实现</span>
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+                <tr style='height: 1.0cm'>
+                    <td width="57" style='width: 42.45pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span
+                                style='font-family: 宋体'>指导</span>
+                        </p>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span
+                                style='font-family: 宋体'>记录</span>
+                        </p>
+                    </td>
+                    <td width="47" colspan="2" style='width: 35.5pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span
+                                style='font-family: 宋体'>周次</span>
+                        </p>
+                    </td>
+                    <td width="113" colspan="2" style='width: 3.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span
+                                style='font-family: 宋体'>指导日期</span>
+                        </p>
+                    </td>
+                    <td width="76" colspan="2" style='width: 2.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>指导方式</span>
+                        </p>
+                    </td>
+                    <td width="76" style='width: 2.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>指导时长</span>
+                        </p>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>（小时）</span>
+                        </p>
+                    </td>
+                    <td width="369" colspan="4" style='width: 276.45pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span
+                                style='font-family: 宋体'>指导内容、工作进度要求</span>
+                        </p>
+                    </td>
+                </tr>
+                <tr style='height: 1.0cm'>
+                    <td width="57" style='width: 42.45pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                1
+                            </span>
+                        </p>
+                    </td>
+                    <td width="47" colspan="2" style='width: 35.5pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                1
+                            </span>
+                        </p>
+                    </td>
+                    <td width="113" colspan="2" style='width: 3.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                2026-03-06
+                            </span>
+                        </p>
+                    </td>
+                    <td width="76" colspan="2" style='width: 2.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                毕设系统
+                            </span>
+                        </p>
+                    </td>
+                    <td width="76" style='width: 56.75pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                1
+                            </span>
+                        </p>
+                    </td>
+                    <td width="369" colspan="4" style='width: 276.4pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                指导并修改开题报告的撰写
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+                <tr style='height: 1.0cm'>
+                    <td width="57" style='width: 42.45pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                2
+                            </span>
+                        </p>
+                    </td>
+                    <td width="47" colspan="2" style='width: 35.5pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                1
+                            </span>
+                        </p>
+                    </td>
+                    <td width="113" colspan="2" style='width: 3.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                2026-03-08
+                            </span>
+                        </p>
+                    </td>
+                    <td width="76" colspan="2" style='width: 2.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                毕设系统
+                            </span>
+                        </p>
+                    </td>
+                    <td width="76" style='width: 56.75pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                1
+                            </span>
+                        </p>
+                    </td>
+                    <td width="369" colspan="4" style='width: 276.4pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                指导论文翻译的格式及内容解读
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+                <tr style='height: 1.0cm'>
+                    <td width="57" style='width: 42.45pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                3
+                            </span>
+                        </p>
+                    </td>
+                    <td width="47" colspan="2" style='width: 35.5pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                2
+                            </span>
+                        </p>
+                    </td>
+                    <td width="113" colspan="2" style='width: 3.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                2026-03-11
+                            </span>
+                        </p>
+                    </td>
+                    <td width="76" colspan="2" style='width: 2.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                毕设系统
+                            </span>
+                        </p>
+                    </td>
+                    <td width="76" style='width: 56.75pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                1
+                            </span>
+                        </p>
+                    </td>
+                    <td width="369" colspan="4" style='width: 276.4pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                指导优质数据集审阅与选择
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+                <tr style='height: 1.0cm'>
+                    <td width="57" style='width: 42.45pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                4
+                            </span>
+                        </p>
+                    </td>
+                    <td width="47" colspan="2" style='width: 35.5pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                2
+                            </span>
+                        </p>
+                    </td>
+                    <td width="113" colspan="2" style='width: 3.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                2026-03-16
+                            </span>
+                        </p>
+                    </td>
+                    <td width="76" colspan="2" style='width: 2.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                毕设系统
+                            </span>
+                        </p>
+                    </td>
+                    <td width="76" style='width: 56.75pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                2
+                            </span>
+                        </p>
+                    </td>
+                    <td width="369" colspan="4" style='width: 276.4pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                指导学习医疗视觉问答、轻量级模型相关文献
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+                <tr style='height: 1.0cm'>
+                    <td width="57" style='width: 42.45pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                5
+                            </span>
+                        </p>
+                    </td>
+                    <td width="47" colspan="2" style='width: 35.5pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                3
+                            </span>
+                        </p>
+                    </td>
+                    <td width="113" colspan="2" style='width: 3.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                2026-03-19
+                            </span>
+                        </p>
+                    </td>
+                    <td width="76" colspan="2" style='width: 2.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                毕设系统
+                            </span>
+                        </p>
+                    </td>
+                    <td width="76" style='width: 56.75pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                2
+                            </span>
+                        </p>
+                    </td>
+                    <td width="369" colspan="4" style='width: 276.4pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                数据集下载、解压与完整性校验。
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+                <tr style='height: 1.0cm'>
+                    <td width="57" style='width: 42.45pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                6
+                            </span>
+                        </p>
+                    </td>
+                    <td width="47" colspan="2" style='width: 35.5pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                3
+                            </span>
+                        </p>
+                    </td>
+                    <td width="113" colspan="2" style='width: 3.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                2026-03-22
+                            </span>
+                        </p>
+                    </td>
+                    <td width="76" colspan="2" style='width: 2.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                毕设系统
+                            </span>
+                        </p>
+                    </td>
+                    <td width="76" style='width: 56.75pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                1
+                            </span>
+                        </p>
+                    </td>
+                    <td width="369" colspan="4" style='width: 276.4pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                指导统计数据集核心特征
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+                <tr style='height: 1.0cm'>
+                    <td width="57" style='width: 42.45pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                7
+                            </span>
+                        </p>
+                    </td>
+                    <td width="47" colspan="2" style='width: 35.5pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                4
+                            </span>
+                        </p>
+                    </td>
+                    <td width="113" colspan="2" style='width: 3.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                2026-03-26
+                            </span>
+                        </p>
+                    </td>
+                    <td width="76" colspan="2" style='width: 2.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                毕设系统
+                            </span>
+                        </p>
+                    </td>
+                    <td width="76" style='width: 56.75pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                2
+                            </span>
+                        </p>
+                    </td>
+                    <td width="369" colspan="4" style='width: 276.4pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                指导分析数据分布
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+                <tr style='height: 1.0cm'>
+                    <td width="57" style='width: 42.45pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                8
+                            </span>
+                        </p>
+                    </td>
+                    <td width="47" colspan="2" style='width: 35.5pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                4
+                            </span>
+                        </p>
+                    </td>
+                    <td width="113" colspan="2" style='width: 3.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                2026-04-01
+                            </span>
+                        </p>
+                    </td>
+                    <td width="76" colspan="2" style='width: 2.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                毕设系统
+                            </span>
+                        </p>
+                    </td>
+                    <td width="76" style='width: 56.75pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                1
+                            </span>
+                        </p>
+                    </td>
+                    <td width="369" colspan="4" style='width: 276.4pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                指导训练模型
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+                <tr style='height: 1.0cm'>
+                    <td width="57" style='width: 42.45pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                9
+                            </span>
+                        </p>
+                    </td>
+                    <td width="47" colspan="2" style='width: 35.5pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                4
+                            </span>
+                        </p>
+                    </td>
+                    <td width="113" colspan="2" style='width: 3.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                2026-04-04
+                            </span>
+                        </p>
+                    </td>
+                    <td width="76" colspan="2" style='width: 2.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                毕设系统
+                            </span>
+                        </p>
+                    </td>
+                    <td width="76" style='width: 56.75pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                1
+                            </span>
+                        </p>
+                    </td>
+                    <td width="369" colspan="4" style='width: 276.4pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                优化训练指导
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+                <tr style='height: 1.0cm'>
+                    <td width="57" style='width: 42.45pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                10
+                            </span>
+                        </p>
+                    </td>
+                    <td width="47" colspan="2" style='width: 35.5pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                5
+                            </span>
+                        </p>
+                    </td>
+                    <td width="113" colspan="2" style='width: 3.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                2026-04-06
+                            </span>
+                        </p>
+                    </td>
+                    <td width="76" colspan="2" style='width: 2.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                毕设系统
+                            </span>
+                        </p>
+                    </td>
+                    <td width="76" style='width: 56.75pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                2
+                            </span>
+                        </p>
+                    </td>
+                    <td width="369" colspan="4" style='width: 276.4pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                增加数据集的量以优化训练
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+                <tr style='height: 1.0cm'>
+                    <td width="57" style='width: 42.45pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                11
+                            </span>
+                        </p>
+                    </td>
+                    <td width="47" colspan="2" style='width: 35.5pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                6
+                            </span>
+                        </p>
+                    </td>
+                    <td width="113" colspan="2" style='width: 3.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                2026-04-09
+                            </span>
+                        </p>
+                    </td>
+                    <td width="76" colspan="2" style='width: 2.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                毕设系统
+                            </span>
+                        </p>
+                    </td>
+                    <td width="76" style='width: 56.75pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                1
+                            </span>
+                        </p>
+                    </td>
+                    <td width="369" colspan="4" style='width: 276.4pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                轻量级神经网络与跨模态交互技术
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+                <tr style='height: 1.0cm'>
+                    <td width="57" style='width: 42.45pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                12
+                            </span>
+                        </p>
+                    </td>
+                    <td width="47" colspan="2" style='width: 35.5pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                6
+                            </span>
+                        </p>
+                    </td>
+                    <td width="113" colspan="2" style='width: 3.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                2026-04-13
+                            </span>
+                        </p>
+                    </td>
+                    <td width="76" colspan="2" style='width: 2.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                毕设系统
+                            </span>
+                        </p>
+                    </td>
+                    <td width="76" style='width: 56.75pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                2
+                            </span>
+                        </p>
+                    </td>
+                    <td width="369" colspan="4" style='width: 276.4pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                指导跨模态交互技术
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+                <tr style='height: 1.0cm'>
+                    <td width="57" style='width: 42.45pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                13
+                            </span>
+                        </p>
+                    </td>
+                    <td width="47" colspan="2" style='width: 35.5pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                7
+                            </span>
+                        </p>
+                    </td>
+                    <td width="113" colspan="2" style='width: 3.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                2026-04-17
+                            </span>
+                        </p>
+                    </td>
+                    <td width="76" colspan="2" style='width: 2.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                毕设系统
+                            </span>
+                        </p>
+                    </td>
+                    <td width="76" style='width: 56.75pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                1
+                            </span>
+                        </p>
+                    </td>
+                    <td width="369" colspan="4" style='width: 276.4pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                指导搭建模型基础框架
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+                <tr style='height: 1.0cm'>
+                    <td width="57" style='width: 42.45pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                14
+                            </span>
+                        </p>
+                    </td>
+                    <td width="47" colspan="2" style='width: 35.5pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                7
+                            </span>
+                        </p>
+                    </td>
+                    <td width="113" colspan="2" style='width: 3.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                2026-04-20
+                            </span>
+                        </p>
+                    </td>
+                    <td width="76" colspan="2" style='width: 2.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                毕设系统
+                            </span>
+                        </p>
+                    </td>
+                    <td width="76" style='width: 56.75pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                2
+                            </span>
+                        </p>
+                    </td>
+                    <td width="369" colspan="4" style='width: 276.4pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                指导模块功能测试
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+                <tr style='height: 1.0cm'>
+                    <td width="57" style='width: 42.45pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                15
+                            </span>
+                        </p>
+                    </td>
+                    <td width="47" colspan="2" style='width: 35.5pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                8
+                            </span>
+                        </p>
+                    </td>
+                    <td width="113" colspan="2" style='width: 3.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                2026-04-23
+                            </span>
+                        </p>
+                    </td>
+                    <td width="76" colspan="2" style='width: 2.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                毕设系统
+                            </span>
+                        </p>
+                    </td>
+                    <td width="76" style='width: 56.75pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                2
+                            </span>
+                        </p>
+                    </td>
+                    <td width="369" colspan="4" style='width: 276.4pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                指导优化测试集置信度
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+                <tr style='height: 1.0cm'>
+                    <td width="57" style='width: 42.45pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                16
+                            </span>
+                        </p>
+                    </td>
+                    <td width="47" colspan="2" style='width: 35.5pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                9
+                            </span>
+                        </p>
+                    </td>
+                    <td width="113" colspan="2" style='width: 3.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                2026-04-27
+                            </span>
+                        </p>
+                    </td>
+                    <td width="76" colspan="2" style='width: 2.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                毕设系统
+                            </span>
+                        </p>
+                    </td>
+                    <td width="76" style='width: 56.75pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                2
+                            </span>
+                        </p>
+                    </td>
+                    <td width="369" colspan="4" style='width: 276.4pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                优化模型训练
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+                <tr style='height: 1.0cm'>
+                    <td width="57" style='width: 42.45pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                17
+                            </span>
+                        </p>
+                    </td>
+                    <td width="47" colspan="2" style='width: 35.5pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                9
+                            </span>
+                        </p>
+                    </td>
+                    <td width="113" colspan="2" style='width: 3.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                2026-04-30
+                            </span>
+                        </p>
+                    </td>
+                    <td width="76" colspan="2" style='width: 2.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                毕设系统
+                            </span>
+                        </p>
+                    </td>
+                    <td width="76" style='width: 56.75pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                1
+                            </span>
+                        </p>
+                    </td>
+                    <td width="369" colspan="4" style='width: 276.4pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                调整优化器与学习率策略
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+                <tr style='height: 1.0cm'>
+                    <td width="57" style='width: 42.45pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                18
+                            </span>
+                        </p>
+                    </td>
+                    <td width="47" colspan="2" style='width: 35.5pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                10
+                            </span>
+                        </p>
+                    </td>
+                    <td width="113" colspan="2" style='width: 3.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                2026-05-04
+                            </span>
+                        </p>
+                    </td>
+                    <td width="76" colspan="2" style='width: 2.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                毕设系统
+                            </span>
+                        </p>
+                    </td>
+                    <td width="76" style='width: 56.75pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                1
+                            </span>
+                        </p>
+                    </td>
+                    <td width="369" colspan="4" style='width: 276.4pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                调试运行
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+                <tr style='height: 1.0cm'>
+                    <td width="57" style='width: 42.45pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                19
+                            </span>
+                        </p>
+                    </td>
+                    <td width="47" colspan="2" style='width: 35.5pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                10
+                            </span>
+                        </p>
+                    </td>
+                    <td width="113" colspan="2" style='width: 3.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                2026-05-07
+                            </span>
+                        </p>
+                    </td>
+                    <td width="76" colspan="2" style='width: 2.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                毕设系统
+                            </span>
+                        </p>
+                    </td>
+                    <td width="76" style='width: 56.75pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                2
+                            </span>
+                        </p>
+                    </td>
+                    <td width="369" colspan="4" style='width: 276.4pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                分析实验结果，完成UI界面
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+                <tr style='height: 1.0cm'>
+                    <td width="57" style='width: 42.45pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                20
+                            </span>
+                        </p>
+                    </td>
+                    <td width="47" colspan="2" style='width: 35.5pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                11
+                            </span>
+                        </p>
+                    </td>
+                    <td width="113" colspan="2" style='width: 3.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                2026-05-11
+                            </span>
+                        </p>
+                    </td>
+                    <td width="76" colspan="2" style='width: 2.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                毕设系统
+                            </span>
+                        </p>
+                    </td>
+                    <td width="76" style='width: 56.75pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                1
+                            </span>
+                        </p>
+                    </td>
+                    <td width="369" colspan="4" style='width: 276.4pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                撰写毕业设计（论文）
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+                <tr style='height: 1.0cm'>
+                    <td width="57" style='width: 42.45pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                21
+                            </span>
+                        </p>
+                    </td>
+                    <td width="47" colspan="2" style='width: 35.5pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                11
+                            </span>
+                        </p>
+                    </td>
+                    <td width="113" colspan="2" style='width: 3.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                2026-05-14
+                            </span>
+                        </p>
+                    </td>
+                    <td width="76" colspan="2" style='width: 2.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                毕设系统
+                            </span>
+                        </p>
+                    </td>
+                    <td width="76" style='width: 56.75pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                1
+                            </span>
+                        </p>
+                    </td>
+                    <td width="369" colspan="4" style='width: 276.4pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                撰写毕业设计（论文）
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+                <tr style='height: 1.0cm'>
+                    <td width="57" style='width: 42.45pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                22
+                            </span>
+                        </p>
+                    </td>
+                    <td width="47" colspan="2" style='width: 35.5pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                12
+                            </span>
+                        </p>
+                    </td>
+                    <td width="113" colspan="2" style='width: 3.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                2026-05-18
+                            </span>
+                        </p>
+                    </td>
+                    <td width="76" colspan="2" style='width: 2.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                毕设系统
+                            </span>
+                        </p>
+                    </td>
+                    <td width="76" style='width: 56.75pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                1
+                            </span>
+                        </p>
+                    </td>
+                    <td width="369" colspan="4" style='width: 276.4pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                撰写毕业设计（论文）
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+                <tr style='height: 1.0cm'>
+                    <td width="57" style='width: 42.45pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                23
+                            </span>
+                        </p>
+                    </td>
+                    <td width="47" colspan="2" style='width: 35.5pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                12
+                            </span>
+                        </p>
+                    </td>
+                    <td width="113" colspan="2" style='width: 3.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                2026-05-21
+                            </span>
+                        </p>
+                    </td>
+                    <td width="76" colspan="2" style='width: 2.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                毕设系统
+                            </span>
+                        </p>
+                    </td>
+                    <td width="76" style='width: 56.75pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                2
+                            </span>
+                        </p>
+                    </td>
+                    <td width="369" colspan="4" style='width: 276.4pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 1.0cm'>
+                        <p class="MsoNormal" align="center" style='text-align: center'>
+                            <span style='font-family: 宋体'>
+                                撰写毕业设计（论文）
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+                
+            </table>
+
+            <p class="MsoNormal"><span lang="EN-US">&nbsp;</span></p>
+
+        </div>
+
+    
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0" />
+	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0" />
+	<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+	<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+
+theForm.oldSubmit = theForm.submit;
+theForm.submit = WebForm_SaveScrollPositionSubmit;
+
+theForm.oldOnSubmit = theForm.onsubmit;
+theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
+//]]>
+</script>
+</form>
+</body>
+</html>

@@ -1,0 +1,8 @@
+task mode: create
+primary deck-profile: engineering-platform
+audience: undergraduate thesis defense committee
+duration: 5-8 minutes
+output intent: formal on-screen defense presentation, not a study handout
+required proof objects: PathVQA split, model architecture, two-stage training, validation/test metrics, Gradio system screenshot, limitations
+design system: light academic style, blue/cyan accents, high readability on projector, sparse slide text
+qa gates: 12 slides, one claim per slide, no dense paragraphs, render previews, contact sheet, layout quality check

@@ -1,0 +1,9 @@
+task mode: create
+primary deck-profile: engineering-platform
+audience: undergraduate thesis defense committee
+duration: 5-8 minutes
+output intent: extra-large-font defense presentation for projector readability
+major change from previous deck: rebuild all small-image diagrams as native editable PPT shapes; do not rely on embedded paper figures with unreadable text
+slide count: 14
+readability rule: main title around 39-44pt, body around 22-26pt, metrics around 46pt
+expanded intent: make the defense presentation richer so the speaker can naturally speak for 8-10 minutes while keeping projector readability
